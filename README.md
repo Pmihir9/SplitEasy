@@ -108,9 +108,3 @@ Or drag the `dist` folder to [app.netlify.com/drop](https://app.netlify.com/drop
 - React Router for proper URL navigation
   -Global state via useReducer + Context API
 
----
-#Architecture Decisions
-The app state is simple enough that Redux would be overkill. `useReducer` gives you the same predictable state transitions without the boilerplate.
-Single `index.css` with CSS variables is easier to hand off and modify. No build-time Tailwind config needed.
----
-
