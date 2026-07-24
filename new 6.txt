@@ -1,0 +1,3 @@
+https://pxckggutzydvjcrwuzrd.supabase.co
+sb_publishable_JavBiKPWxHuKK19oaGprww_iFqutNlz
+npm run dev -- --host
